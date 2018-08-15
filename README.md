@@ -1,7 +1,5 @@
 # Pitch Perfect
 
-![Platform iOS]
-
 This repository contains resources for my implementation of the Udacity Pitch Perfect project.
 
 ## Overview
